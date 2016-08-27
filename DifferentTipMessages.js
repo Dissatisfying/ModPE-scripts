@@ -1,5 +1,7 @@
 var ctx = com.mojang.minecraftpe.MainActivity.currentMainActivity.get();
 
+var Toast = android.widget.Toast;
+
 var usePrint = false;
 var useTip = false;
 var useToast = false;
